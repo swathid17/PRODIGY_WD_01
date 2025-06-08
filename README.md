@@ -6,6 +6,7 @@ Task Description:
  This project is part of my internship at **PRODiGY InfoTech** under the Web Development track.
 
 
+
 Objective:
 
  Build an interactive navigation menu using HTML, CSS, and JavaScript that:
