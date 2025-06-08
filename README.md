@@ -3,7 +3,7 @@
 
 Task Description:
 
- This project is part of my internship at **PRODiGY InfoTech** under the Web Development track.
+ This project is part of my internship at **PRODIGY InfoTech** under the Web Development track.
 
 
 
