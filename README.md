@@ -1,5 +1,5 @@
 
-# PRODIGY Web Development Task 1 - Interactive Navigation Menu
+# PRODIGY_WD_01 - Interactive Navigation Menu
 
 Task Description:
 
